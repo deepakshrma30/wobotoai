@@ -1,4 +1,4 @@
-import { useEffect, useState, useCallback } from "react";
+import { useEffect, useState } from "react";
 import type { DATA } from "../types/types";
 
 export function useSampleData() {

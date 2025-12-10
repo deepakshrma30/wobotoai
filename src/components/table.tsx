@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import { useSampleData } from "../service/useSampleData";
 import RingBadge from "./ringBadge";
 
